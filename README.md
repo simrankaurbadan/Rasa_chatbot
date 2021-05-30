@@ -7,4 +7,14 @@ Also as an added functionality, the bot can send the searched restaurant list to
 
 This chatbot is based on RASA open source solutioning. 
 
-Privacy: No client data is used in this project. Zomato api is used to get the details of the restaurants as per customer's preference.
+<b>Recommendations</b>
+
+* Same concept and technology can be performed using NLP models and cloud based NLP models if you dont have a good hands on coding.
+
+<b>Privacy Statement</b>
+
+* No Client data or confidential data has been used. The data used for analysis is downloaded from open source repositories.
+* Non of the organizational server and credentials has been used during this project.
+* This is a non-monitorial project only for learning and assignment perspective.
+
+
